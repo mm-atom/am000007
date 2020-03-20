@@ -1,7 +1,3 @@
-/**
- * @module open-app打开其他软件
- */
-
 import { Linking } from 'react-native';
 
 /**
