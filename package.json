@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/am000007",
-	"version": "1.0.202003200928",
+	"version": "1.0.202003200934",
 	"description": "打开电话",
 	"scripts": {
 		"test": "tsc -w",
